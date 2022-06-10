@@ -1,0 +1,13 @@
+meal a 
+meal name
+chef c = 10
+meal x 
+serve ( "Enter name:" )
+order ( name )
+serve ( "Enter age:" )
+order ( a )
+x = a / c
+if ( x < 10 )
+serve ( "Name" + name )
+else 
+serve ( "Age" + age )
